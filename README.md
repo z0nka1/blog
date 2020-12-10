@@ -1,1 +1,1 @@
-# I write hear, check it out in the [Issues](https://github.com/z0nka1/blog/issues) tab.
+### 部分文章还来不及完善，会慢慢补全。
